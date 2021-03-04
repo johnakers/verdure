@@ -1,0 +1,19 @@
+name: Verdure
+description: "Devlog"
+meta_description: "Devlog for Verdure"
+
+markdown: kramdown
+highlighter: rouge
+logo: true
+paginate: 5
+baseurl: ""
+domain_name: "http://yourblog-domain.com"
+google_analytics: "UA-XXXXXXXX-X"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: ""
+author: "@aliste__"
+
+# Disqus config
+disqus-shortname: ""
